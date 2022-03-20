@@ -1,4 +1,4 @@
-namespace PlatziWebSite.Models;
+namespace SitioWebAzure.Models;
 
 public class ErrorViewModel
 {

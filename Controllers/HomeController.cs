@@ -1,8 +1,8 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using PlatziWebSite.Models;
+using SitioWebAzure.Models;
 
-namespace PlatziWebSite.Controllers;
+namespace SitioWebAzure.Controllers;
 
 public class HomeController : Controller
 {
